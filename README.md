@@ -7,3 +7,4 @@ This project seeks to simplify and abstract **Tkinter**, and simply creating int
 
 ```sh
 git clone https://github.com/GingerHub112/bettertk.git
+python3 -m pip install -r requirements.txt
