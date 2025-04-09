@@ -1,4 +1,4 @@
 <view>
     <label id="label" text="Hello World!" font="Arial" size="14" padding="10"/>
-    <button id="button" text="Click Me!" font="Times New Roman" padding="14" size="12"/>
+    <button id="button" text="Click Me!" font="Times New Roman" padding="14" size="12" command="onClick"/>
 </view>
